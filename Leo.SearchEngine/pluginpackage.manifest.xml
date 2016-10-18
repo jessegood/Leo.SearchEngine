@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginPackage xmlns="http://www.sdl.com/Plugins/PluginPackage/1.0">
+  <PlugInName>Leo.SearchEngine</PlugInName>
+  <Version>2.0</Version>
+  <Description>Leo.SearchEngine</Description>
+  <Author>Jesse Good</Author>
+  <RequiredProduct name="SDLTradosStudio" minversion="12.0" />
+  <Include>
+    <File>Lucene.Net.dll</File>
+    <File>ICSharpCode.SharpZipLib.dll</File>
+  </Include>
+</PluginPackage>
